@@ -24,6 +24,6 @@ Reset x/y/z - 3 values that determine where the camera goes when the user presse
 ## Notes & Acknowledgements
 My first attempt at Unity coding, guidance taken from:<br/>
 https://gist.github.com/RyanBreaker/932dc35302787d2f39df6b614a50c0c9<br/>https://gamedev.stackexchange.com/questions/104693/how-to-use-input-getaxismouse-x-y-to-rotate-the-camera<br/>
-The space bar does not accelerate the rotation or movement in the y-axis.
+The space bar does not accelerate the rotation.<br/>
 Hope this helps, may well update in due course.
 
